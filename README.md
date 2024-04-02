@@ -12,13 +12,13 @@ Swainsense is a program for managing orders of ice cream flavors with various to
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/swainsense.git
+    git clone https://github.com/8818x/Swainsense.git
     ```
 2. Navigate to the project directory:
     ```bash
     cd swainsense
     ```
-3. Install dependencies:
+3. Install dependencies (I didn't upload XD):
     ```bash
     pip install -r requirements.txt
     ```
