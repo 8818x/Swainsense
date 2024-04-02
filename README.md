@@ -36,5 +36,5 @@ Swainsense is a program for managing orders of ice cream flavors with various to
 - Python 3
 - tkinter (Python GUI toolkit)
 
-## README
-Write it by ChatGPT.
+## Generate
+Generate description by ChatGPT.
