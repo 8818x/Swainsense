@@ -1,5 +1,4 @@
 # Swainsense Program
-This project was created by python3.
 
 ## Description
 Swainsense is a program for managing orders of ice cream flavors with various toppings.
