@@ -17,7 +17,7 @@ Swainsense is a program for managing orders of ice cream flavors with various to
     ```bash
     cd swainsense
     ```
-3. Install dependencies (I didn't upload XD):
+3. Install dependencies (I didn't upload it. XD):
     ```bash
     pip install -r requirements.txt
     ```
